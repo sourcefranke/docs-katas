@@ -1,0 +1,7 @@
+site_name: Docs Kata Session @ SWK
+
+theme: readthedocs
+
+
+plugins:
+  - mermaid2
